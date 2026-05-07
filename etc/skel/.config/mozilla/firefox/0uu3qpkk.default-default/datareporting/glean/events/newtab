@@ -1,0 +1,2 @@
+{"timestamp":6043076,"category":"newtab","name":"closed","extra":{"newtab_visit_id":"{7e942321-984b-4742-a814-1204e793b727}","glean_timestamp":"1778103119749"}}
+{"timestamp":6052097,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-06T18:32-03:00","glean_timestamp":"1778103128770"},"execution_counter":1}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/anon/Dracula/Dracula.tar.xz" added="2026-05-06T19:22:30.946944Z" modified="2026-05-06T19:22:45.448146Z" visited="2026-05-06T19:22:30.946944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2026-05-06T19:22:45.448145Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anon/Dracula/dracula-icons-main.zip" added="2026-05-06T19:22:55.430202Z" modified="2026-05-06T19:22:55.430207Z" visited="2026-05-06T19:22:55.430203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2026-05-06T19:22:55.430205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anon/Dracula/Dracula-standard-buttons.tar.xz" added="2026-05-06T19:23:11.929714Z" modified="2026-05-06T19:23:11.929719Z" visited="2026-05-06T19:23:11.929715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2026-05-06T19:23:11.929717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anon/Downloads/icone.png" added="2026-05-06T21:31:57.611416Z" modified="2026-05-06T21:32:05.578838Z" visited="2026-05-06T21:31:57.611417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-06T21:31:58.182855Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-05-06T21:32:05.578830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

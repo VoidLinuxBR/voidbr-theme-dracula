@@ -1,0 +1,14 @@
+{"timestamp":6049514,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1778103126187","can_load":"true","loadfail_reason":"N/A","path_key":"clean"}}
+{"timestamp":6049515,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1778103126188","loadfail_reason":"N/A","path_key":"clean","can_load":"true"}}
+{"timestamp":6049516,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","shutdown_reason":"N/A","glean_timestamp":"1778103126189"}}
+{"timestamp":6050218,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1778103126891"}}
+{"timestamp":6051091,"category":"nimbus_events","name":"startup_database_consistency","extra":{"primary":"jsonfile","db_active_count":"2","total_db_count":"2","store_active_count":"2","glean_timestamp":"1778103127764","trigger":"startup","total_store_count":"2"}}
+{"timestamp":6051147,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1778103127820","value":"error_notfounderror"}}
+{"timestamp":6051209,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1778103127882","value":"null"}}
+{"timestamp":6051275,"category":"translations","name":"identify_page_language","extra":{"extraction_time":"19.928212000000258","glean_timestamp":"1778103127948","identification_time":"134.80523999999969","total_time":"154.73345199999994","confident":"false","identified_language":"en","extracted_code_units":"37"}}
+{"timestamp":6051790,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1778103128464"}}
+{"timestamp":6051890,"category":"containers","name":"container_profile_loaded","extra":{"glean_timestamp":"1778103128563","containers":"4"}}
+{"timestamp":6051949,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1778103128622","value":"error_notfounderror"}}
+{"timestamp":6051954,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1778103128627","value":"not-major"}}
+{"timestamp":6052979,"category":"nimbus_events","name":"database_write","extra":{"glean_timestamp":"1778103129653","success":"true"}}
+{"timestamp":6053107,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1778103129781"}}
