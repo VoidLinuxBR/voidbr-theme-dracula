@@ -1,3 +1,6 @@
-# voidbr-pkgfile
+# voidbr-xfce-theme-Dracula
 
-Template for VoidBR pkgmake/pkgfile packages
+Pacote de tema Dracula para VoidBR XFCE
+
+
+
