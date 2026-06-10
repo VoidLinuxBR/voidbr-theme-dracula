@@ -1,6 +1,6 @@
-# voidbr-xfce-theme-dracula
+# voidbr-theme-dracula
 
-Pacote de tema Dracula para VoidBR XFCE
+Pacote de tema Dracula para VoidBR
 
 
 

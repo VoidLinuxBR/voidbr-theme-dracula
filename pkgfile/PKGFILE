@@ -1,9 +1,11 @@
 # Maintainer: Eduardo Charquero <eduardo.charquero@gmail.com>
 
-pkgname=voidbr-xfce-theme-dracula
-pkgdesc="Pacote de tema Dracula para VoidBR XFCE"
+pkgname=voidbr-theme-dracula
+pkgdesc="Pacote de tema Dracula para VoidBR"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
+provides=(voidbr-xfce-theme-dracula)
+replaces=(voidbr-xfce-theme-dracula)
 arch=('any')
 license=('MIT')
 #url="ssh://git@github.com/voidlinuxbr/${pkgname}"
